@@ -43,11 +43,11 @@ public:
 	}
 
 	// --- Getters-Stters ---
-	int GetX()				// GET X	
+	int GetX()			// GET X	
 	{
 		return this->x;
 	}
-	int GetY()				// GEY Y
+	int GetY()			// GEY Y
 	{
 		return this->y;
 	}
